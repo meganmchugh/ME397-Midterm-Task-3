@@ -9,8 +9,9 @@ view the changes made to the document from each user.
 Deliverables for Task 3: Evidence if you all having done Task 3 by me observing the history of
 the README file on the Repository.
 
-hi, my name is megan
+deleted all the lines
 
-This was patrick's line but I deleted it
 
-hi guys this is Max
+made new text
+
+typing some more
