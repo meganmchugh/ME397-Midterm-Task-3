@@ -11,7 +11,6 @@ the README file on the Repository.
 
 deleted all the lines
 
-
-made new text
-
 typing some more
+
+Patrick typing some more
